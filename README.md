@@ -1,1 +1,1 @@
-# AFD.github.io
+# afdownloader.github.io
